@@ -13,7 +13,7 @@ const Projects = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://dukeow8.github.io/Ndumiso_Banda_resume">My Portfolio!</a>
+          Welcome to <a href="https://kaunda-a.github.io/Ndumiso_Banda_resume/">My Portfolio!</a>
         </h1>
 
         <p className={styles.description}>
@@ -22,7 +22,7 @@ const Projects = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://dukeow8.github.io/Ndumiso_Banda_resume" className={styles.card}>
+          <a href="https://kaunda-a.github.io/Ndumiso_Banda_resume/" className={styles.card}>
             <h2>My resume &rarr;</h2>
             <p>Find out in-depth about me.</p>
           </a>
